@@ -1,5 +1,5 @@
 # MoleCalc
-A program that automatizes mole calculations in chemistry by reading and parsing chemical formulas.
+A program that automates mole calculations in chemistry by reading and parsing chemical formulas.
 
 ## Streamline mole calculations in chemistry
 Let MoleCalc do all the heavy lifting for you - simply enter the chemical formula of the substance, and the mass in grams, and bam! - get the moles! No more sifting through periodic tables and performing annoying calculations every time you do a lab.
